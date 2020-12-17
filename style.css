@@ -1,0 +1,21 @@
+.price {
+  font-size: 17px;
+  color: gray;
+}
+
+.single {
+  color: black;
+}
+
+.cardnamenumber {
+  font-size: 18px;
+}
+
+.small {
+  font-size: 15px;
+}
+
+.checkoutbutton {
+  font-size: 1.25rem;
+  border-radius: 0.3rem;
+}
